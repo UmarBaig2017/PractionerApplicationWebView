@@ -1,0 +1,36 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.2.1",
+    "firebase": "^5.10.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "react": "^16.7.0",
+    "react-autocomplete": "^1.8.1",
+    "react-bootstrap-modal": "^4.2.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^5.0.6",
+    "react-responsive-modal": "^3.5.1",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.0.17",
+    "reactstrap": "^7.1.0",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
